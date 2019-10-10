@@ -1,0 +1,4 @@
+Lenguaje de Programacion
+
+Son los lenguajes formales qu permiten counicarle a un computador las necesidades a solucionar, a traves de instrucciones
+Entre lo ejemplos de lenguaje de Programacion tenemos: Python, c, c++, java, ruby, etc.
